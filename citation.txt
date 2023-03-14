@@ -1,0 +1,9 @@
+@article{REPO-119,
+    author = "Ma, Ling and Rathgeb, Armand and Mubarak, Hasan and Tran, Minh and Fei, Baowei",
+    journal = "Journal of biomedical optics",
+    number = "5",
+    pages = "056502--056502",
+    title = "{Unsupervised Super-resolution Reconstruction of Hyperspectral Histology Images for Whole-slide Imaging}",
+    volume = "27",
+    year = "2022"
+}
